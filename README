@@ -1,0 +1,6 @@
+Random Scripts
+========================
+
+A collection of scripts that are used on the Plugin-CI servers. 
+The owner of Plugin-CI often does not have time to do this manually so he created a set of scripts to do this for him. 
+None of the scripts in here are advanded, they just run a bunch of commands.
